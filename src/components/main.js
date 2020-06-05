@@ -5,12 +5,14 @@ import Landing from './landing';
 import About from './about';
 import Contact from './contact';
 import Projects from './projects';
+import Resume from './resume';
 
 
 
 const Main = () => (
   <Switch>
     <Route exact path="/" component={Landing} />
+    <Route exact path="/resume" component={Resume} />
     <Route path="/about" component={About} />
     <Route path="/contact" component={Contact} />
     <Route path="/projects" component={Projects} />
