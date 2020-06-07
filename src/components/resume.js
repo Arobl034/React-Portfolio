@@ -73,24 +73,24 @@ class Resume extends Component {
             <h2>Experience</h2>
 
             <Experience
-              startYear={2009}
-              endYear={2012}
-              jobName="First Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              startYear={2019}
+              endYear={2020}
+              jobName="Full Stack Web Developer"
+              jobDescription="Classroom experience, where I have learned the fundamentals of front-end and back-end development."
             />
 
             <Experience
-              startYear={2012}
-              endYear={2016}
-              jobName="Second Job"
-              jobDescription="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+              startYear={2015}
+              endYear={2020}
+              jobName="Real Estate Evaluator II"
+              jobDescription="Real Estate Evaluator with a decade of successful experience in data gathering of various kinds of Real Estate for purpose of Ad Valorem taxation. Specialize in assessing large and complex structures in accordance with accepted appraisal methods, techniques, departmental procedures and legal requirements governing tax assessment."
             />
             <hr style={{ borderTop: "3px solid #e22947" }} />
             <h2>Skills</h2>
-            <Skills skill="javascript" progress={100} />
+            <Skills skill="javascript" progress={60} />
             <Skills skill="HTML/CSS" progress={80} />
-            <Skills skill="NodeJS" progress={50} />
-            <Skills skill="React" progress={25} />
+            <Skills skill="NodeJS" progress={70} />
+            <Skills skill="React" progress={65} />
           </Cell>
         </Grid>
       </div>
