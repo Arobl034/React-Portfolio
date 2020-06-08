@@ -4,7 +4,7 @@ import React, { } from "react";
 function Projects() {
   return (
     <div>
-      <h1 className="titlePage"></h1>
+      
       <section>
         <div>
           <div className="row">
