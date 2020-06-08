@@ -141,3 +141,55 @@ height: 100%;
   justify-content: center;
   padding-top: 2em;
 }
+
+/*Projects*/
+.titlePage {
+  font-family: "Poppins", sans-serif;
+  font-size: 55px;
+  width: 100%;
+  padding: 25px;
+  text-transform: lowercase;
+  letter-spacing: 16px;
+  text-align: left;
+  color: rgb(155, 155, 155);
+  opacity: 0.6;
+}
+.project {
+  height: auto;
+  margin: 5px;
+  padding: 20px;
+  position: relative;
+}
+.title {
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+  text-align: center;
+  margin: 0 auto;
+  height: 100%;
+  color: rgb(155, 155, 155);
+  opacity: 0.6;
+  width: 100%;
+  font-size: 14px;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  word-spacing: 2px;
+}
+.Project1 {
+  font-family: "Poppins", sans-serif;
+  word-spacing: 2px;
+  text-align: center;
+  margin: 0 auto;
+  color: rgb(155, 155, 155);
+  opacity: 0.6;
+  width: 100%;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 20px;
+}
+
+
+
+
+
